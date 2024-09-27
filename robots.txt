@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://quixyliz.github.io/sitemap.quixyliz.gz
+Sitemap: https://quixyliz.github.io/app/sitemap.quixyliz.gz
+Sitemap: https://quixyliz.github.io/assets/sitemap.quixyliz.gz
+Sitemap: https://quixyliz.github.io/css/sitemap.quixyliz.gz
+Sitemap: https://quixyliz.github.io/data/sitemap.quixyliz.gz
+Sitemap: https://quixyliz.github.io/includes/sitemap.quixyliz.gz
+Sitemap: https://quixyliz.github.io/item/sitemap.quixyliz.gz
+Sitemap: https://quixyliz.github.io/src/sitemap.quixyliz.gz
